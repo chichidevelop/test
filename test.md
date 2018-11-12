@@ -3,4 +3,4 @@ test!
 Pull Test.
 
 
-conflict test.
+conflict test2.
